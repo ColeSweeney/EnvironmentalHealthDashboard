@@ -1,0 +1,7 @@
+dash
+pandas
+numpy
+requests
+plotly
+sqlite3 ; only needed for Python versions < 3.7 
+geopandas ; optional if doing maps
